@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am currently a senior student majoring in Statistics at <a href="http://jwsy.jsnu.edu.cn/" target="_blank"> CW CHU College (Talent Development Base)</a> and <a href="http://maths.jsnu.edu.cn/" target="_blank"> School of Mathematics and Statistics</a> , Jiangsu Normal University. Under the guidance of Professor <a href="http://maths.jsnu.edu.cn/_t1395/17335/list.htm" target="_blank"> Lianyong Qian</a>, I have had the privilege of conducting research on integer-valued time series. I have a strong interest in various statistical models and their applications. I believe that statistics is a discipline that can create significant value for society through the analysis of data. In the past, I have also explored areas such as Bayesian inference, variable selection, medical image recognition, and structural equation modeling
+I am currently a senior student majoring in Statistics at <a href="http://jwsy.jsnu.edu.cn/" target="_blank"> CW CHU College (Talent Development Base)</a> and <a href="http://maths.jsnu.edu.cn/" target="_blank"> School of Mathematics and Statistics</a> , Jiangsu Normal University. Under the guidance of Professor <a href="http://maths.jsnu.edu.cn/_t1395/17335/list.htm" target="_blank"> Lianyong Qian</a>, I have had the privilege of conducting research on integer-valued time series. I have a strong interest in various statistical models and their applications. I believe that statistics is a discipline that can create significant value for society through the analysis of data. In the past, I have also explored areas such as Bayesian inference, variable selection, medical image recognition, and structural equation modeling.
 
 
 
