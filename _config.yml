@@ -32,10 +32,10 @@ twitter: https://twitter.com/tedddddy_zhang
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/IMG_20231021_001324.jpg
+avatar: ./assets/selfile.png
 # logo: ./assets/img/logo.png
-favicon: ./assets/IMG_20231021_001324.jpg
-favicon_dark: ./assets/IMG_20231021_001324.jpg
+favicon: ./selfile.png
+favicon_dark: ./assets/selfile.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
