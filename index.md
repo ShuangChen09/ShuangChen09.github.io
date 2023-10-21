@@ -3,8 +3,15 @@ layout: homepage
 ---
 
 ## About Me
-I am currently a senior student majoring in Statistics at CW CHU College (Talent Development Base) and <a href="http://maths.jsnu.edu.cn/" target="_blank"> School of Mathematics and Statistics</a> , Jiangsu Normal University. 
-I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Biostatistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>'s <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a>,
+I am currently a senior student majoring in Statistics at <a href="http://jwsy.jsnu.edu.cn/" target="_blank"> CW CHU College (Talent Development Base)</a> and <a href="http://maths.jsnu.edu.cn/" target="_blank"> School of Mathematics and Statistics</a> , Jiangsu Normal University. Under the guidance of Professor <a href="http://maths.jsnu.edu.cn/_t1395/17335/list.htm" target="_blank"> Lianyong Qian</a>, I have had the privilege of conducting research on integer-valued time series. I have a strong interest in various statistical models and their applications. I believe that statistics is a discipline that can create significant value for society through the analysis of data. In the past, I have also explored areas such as Bayesian inference, variable selection, medical image recognition, and structural equation modeling
+
+
+
+
+
+
+
+I'm a <a href="http://maths.jsnu.edu.cn/_t1395/17335/list.htm" target="_blank"> Lianyong Qian</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>'s <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a>,
 <!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
 working under the mentorship of Prof.<a href="https://med.nyu.edu/faculty/thaddeus-tarpey" target="_blank"> Thaddeus Tarpey</a>. My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data.
 
