@@ -21,7 +21,7 @@ Outside of my academic pursuits, I have a passion for long-distance swimming and
 - **Application Fields:** Biology and Genetics, Medicine and Epidemiology, Social Sciences
 
 
-<!-- {% include_relative _includes/publications.md %} -->
+
 
 ## Awards
 - **[May. 2023]** *Meritorious Winner* in <a href="https://www.comap.com/contests/mcm-icm" target="_blank"> The Mathematical Contest in Modeling (MCM) </a>
@@ -32,7 +32,7 @@ Outside of my academic pursuits, I have a passion for long-distance swimming and
 - **[Apr. 2022]**  *Second Prize* in <a href="http://www.china-cssc.org/show-274-1271-1.html" target="_blank"> China Market Research and Analysis Competition (CRA) </a>
 - **[2023/2022/2021]** University Scholarship for excellent students
 
-
+<!-- {% include_relative _includes/publications.md %} -->
 
 {% include_relative _includes/services.md %}
 
