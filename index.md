@@ -33,6 +33,7 @@ Outside of my academic pursuits, I have a passion for long-distance swimming and
 - **[2023/2022/2021]** University Scholarship for excellent students
 
 <!-- {% include_relative _includes/publications.md %} -->
+{% include_relative _includes/projects.md %}
 
 {% include_relative _includes/services.md %}
 
