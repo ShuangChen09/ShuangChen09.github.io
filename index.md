@@ -8,16 +8,17 @@ I am currently a senior student majoring in Statistics at <a href="http://jwsy.j
 
 Under the guidance of Professor <a href="http://maths.jsnu.edu.cn/_t1395/17335/list.htm" target="_blank"> Lianyong Qian</a>, I have had the privilege of conducting research on integer-valued time series. I have a strong interest in various statistical models and their applications. In the past, I have also explored areas such as Bayesian inference, machine learning, variable selection, medical image recognition, and structural equation modeling.
 
-During my time in college, I actively participated in numerous mathematical and statistical modeling competitions, which exposed me to a diverse range of statistical models. These experiences not only honed my problem-solving skills but also cultivated my programming abilities. Furthermore, in the summer of 2022, during my internship with the municipal government, I utilized machine learning techniques to address specific issues related to public welfare. Through these endeavors, I discovered the captivating power of statistical methods and developed a profound belief that statistics, as a discipline rooted in data, holds the potential to create substantial value for society.
+During my time in college, I actively participated in numerous mathematical and statistical modeling competitions, which exposed me to a diverse range of statistical models. These experiences not only honed my problem-solving skills but also cultivated my programming abilities. Furthermore, in the summer of 2022, during my internship with the municipal government, I utilized machine learning techniques(XGBoost, LSTM) to address specific issues related to public welfare. Through these endeavors, I discovered the captivating power of statistical methods and developed a profound belief that statistics, as a discipline rooted in data, holds the potential to create substantial value for society.
 
 Outside of my academic pursuits, I have a passion for long-distance swimming and running. Occasionally, I also enjoy playing the flute. Furthermore, my interest in solving Rubik's Cubes began when I was eight years old, and I have even participated in world-class Rubik's Cube competitions. During my college years, I held the position of vice president in the university's Rubik's Cube club.
 
 
 ## Research Interests
-- **Manifold Learning:** positive semi-definite manifolds learning
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Functional Data Analysis:** functional regression, and clustering methods
-- **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
+- **Machine Learning:** medical image processing, robustness, and augmentation methods
+- **Time Series:** functional time series, change point, and spatial time series
+- **Regression:** functional regression, subgroup analysis, and missing data
+- **High-Dimensional Statistics:** high-dimensional matrix computation, and nonparametric methods
+- **Application Fields:** Biology and Genetics, Medicine and Epidemiology, Social Sciences
 
 
 ## Awards
