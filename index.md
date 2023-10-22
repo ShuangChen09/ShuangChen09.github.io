@@ -30,7 +30,7 @@ Outside of my academic pursuits, I have a passion for long-distance swimming and
 - **[Apr. 2022]**  *Second Prize* in <a href="http://www.china-cssc.org/show-274-1271-1.html" target="_blank"> China Market Research and Analysis Competition (CRA) </a>
 - **[2023/2022/2021]** University Scholarship for excellent students
 
-http://tjjmds.ai-learning.net/
+
 
 <!-- {% include_relative _includes/publications.md %} -->
 
