@@ -16,7 +16,7 @@ Outside of my academic pursuits, I have a passion for long-distance swimming and
 ## Research Interests
 - **Machine Learning:** medical image processing, robustness, and augmentation methods
 - **Time Series:** functional time series, change point, and spatial time series
-- **Regression:** functional regression, subgroup analysis, and missing data
+- **Regression:** functional regression, subgroup analysis, and missing data problem
 - **High-Dimensional Statistics:** high-dimensional matrix computation, and nonparametric methods
 - **Application Fields:** Biology and Genetics, Medicine and Epidemiology, Social Sciences
 
