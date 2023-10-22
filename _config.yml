@@ -28,8 +28,8 @@ github_link: https://github.com/ChenPupil
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/selfile.png
 # logo: ./assets/normal.png
-favicon: ./assets/normal.png
-favicon_dark: ./assets/normal.png
+favicon: ./assets/selfile.png
+favicon_dark: ./assets/selfile.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
