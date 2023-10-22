@@ -22,9 +22,11 @@ Outside of my academic pursuits, I have a passion for long-distance swimming and
 
 
 ## Awards
-- **[May. 2023]** *Meritorious Winner* in <a href="https://www.comap.com/contests/mcm-icm" target="_blank"> MCM </a>
-- **[April. 2023]** *First Prize* in <a href="http://www.china-cssc.org/show-274-1271-1.html" target="_blank"> CRA </a>
-
+- **[May. 2023]** *Meritorious Winner* in <a href="https://www.comap.com/contests/mcm-icm" target="_blank"> The Mathematical Contest in Modeling (MCM) </a>
+- **[Apr. 2023]** *First Prize* in <a href="http://www.china-cssc.org/show-274-1271-1.html" target="_blank"> China University Student Market Research and Analysis Competition (CRA) </a>
+- **[Jan. 2023]** *Third Prize* in <a href="http://www.apmcm.org/" target="_blank"> Asia-Pacific Mathematical Contest in Modeling (APMCM) </a>
+- **[Jan. 2023]** *Third Prize* in
+- **[Jan. 2023]**
 
 
 
