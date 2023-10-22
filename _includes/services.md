@@ -11,5 +11,5 @@
 <h4 style="margin:0 10px 0;">Membership & Activities</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><strong>[2021-present]</strong> Member of the <a href="http://www.caas-net.org.cn/" target="_blank"> Chinese Association for Applied Statics </a></li>
+  <li><strong>[2021-present]</strong> Member of the <a href="http://www.caas-net.org.cn/" target="_blank"> Chinese Association for Applied Statistics </a></li>
   <li><strong>[2022-2023]</strong> President of University's Student Union Federation
