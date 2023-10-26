@@ -23,13 +23,13 @@ canonical: https://minimal-light-theme.yliu.me/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 cv_link: assets/files/shaungchenCV.pdf
-github_link: https://github.com/ChenPupil
+github_link: https://github.com/Shuangchen09
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/selfile.png
 # logo: ./assets/normal.png
-favicon: ./assets/selfile.png
-favicon_dark: ./assets/selfile.png
+favicon: ./assets/OIP.jpg
+favicon_dark: ./assets/OIP.jpg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
