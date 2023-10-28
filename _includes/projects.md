@@ -63,14 +63,12 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"> Estimation of Self-exciting Threshold Integer-valued Autoregressive via Data Cloning(avaliable upon request)</div>
-    <div class="author"><strong>Hanchao Zhang</strong>, Lianyong Qian </div>
+    <div class="title">Estimation of Self-exciting Threshold Integer-valued Autoregressive Model via Data Cloning</div>
+    <div class="author"><strong>Shuang Chen</strong>, Lianyong Qian </div>
     <div class="periodical"><em> School of Mathematics and Statistics</em></div>
     <div class="links">
-      <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://github.com/orgs/opencasestudies/teams/jhu-research-assistants" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contact</a>
+      <a href="chensh0926@163.com" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Available upon Request</a>
+      <a href="https://github.com/ShuangChen09/MCMC-method-for-SETINAR-model" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
     </div>
   </div>
 </div>
