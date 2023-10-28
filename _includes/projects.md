@@ -67,7 +67,7 @@
     <div class="author"><strong>Shuang Chen</strong>, Lianyong Qian </div>
     <div class="periodical"><em> School of Mathematics and Statistics</em></div>
     <div class="links">
-      <a href="chensh0926@163.com" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Available upon Request</a>
+      <a href="mailto:chensh0926@163.com" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Available upon Request</a>
       <a href="https://github.com/ShuangChen09/MCMC-method-for-SETINAR-model" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
     </div>
   </div>
