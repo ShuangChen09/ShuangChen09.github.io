@@ -106,7 +106,10 @@
     <div class="author"><strong>Shuang Chen</strong> </div>
     <div class="periodical"><em> School of Mathematics and Statistics</em></div>
     <div class="links">
-      <a href="https://github.com/ShuangChen09/ShuangChen09.github.io/blob/master/assets/unemployment.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF(Chinese version)</a>
+      <div>
+            <embed src="https://github.com/ShuangChen09/ShuangChen09.github.io/blob/master/assets/unemployment.pdf" type="application/pdf" width="100%" height="600px" />
+            <a href="https://github.com/ShuangChen09/ShuangChen09.github.io/blob/master/assets/unemployment.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">View PDF</a>
+        </div>
       <a href="https://github.com/ShuangChen09/ARIMA-HMM-Prophet-LSTM-for-time-series" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
     </div>
   </div>
