@@ -73,6 +73,26 @@
   </div>
 </div>
 </li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/fei.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Project</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Estimation of Self-exciting Threshold Integer-valued Autoregressive Model via Data Cloning</div>
+    <div class="author"><strong>Shuang Chen</strong> </div>
+    <div class="periodical"><em> School of Mathematics and Statistics</em></div>
+    <div class="links">
+      <a href="https://github.com/ShuangChen09" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+    </div>
+  </div>
+</div>
+</li>
   
 <br>
 
