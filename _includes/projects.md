@@ -83,7 +83,7 @@
     <abbr class="badge">Project</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Transfer-learning-on-SARS-CoV-2-CT-scan</div>
+    <div class="title">Transfer learning on SARS-CoV-2-CT-scan to identify pneumonia</div>
     <div class="author"><strong>Shuang Chen</strong> </div>
     <div class="periodical"><em> School of Mathematics and Statistics</em></div>
     <div class="links">
@@ -106,7 +106,7 @@
     <div class="author"><strong>Shuang Chen</strong> </div>
     <div class="periodical"><em> School of Mathematics and Statistics</em></div>
     <div class="links">
-      <a href="https://github.com/ShuangChen09/ShuangChen09.github.io/blob/master/assets/unemployment.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF(Chinese edition)</a>
+      <iframe src="https://github.com/ShuangChen09/ShuangChen09.github.io/blob/master/assets/unemployment.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0">PDF(Chinese version)</iframe>
       <a href="https://github.com/ShuangChen09/ARIMA-HMM-Prophet-LSTM-for-time-series" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
     </div>
   </div>
