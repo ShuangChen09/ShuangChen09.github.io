@@ -98,7 +98,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/LSTM.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/FourPre.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Project</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -106,7 +106,7 @@
     <div class="author"><strong>Shuang Chen</strong> </div>
     <div class="periodical"><em> School of Mathematics and Statistics</em></div>
     <div class="links">
-      <iframe src="https://github.com/ShuangChen09/ShuangChen09.github.io/blob/master/assets/unemployment.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0">PDF(Chinese version)</iframe>
+      <a href="https://github.com/ShuangChen09/ShuangChen09.github.io/blob/master/assets/unemployment.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF(Chinese version)</a>
       <a href="https://github.com/ShuangChen09/ARIMA-HMM-Prophet-LSTM-for-time-series" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
     </div>
   </div>
