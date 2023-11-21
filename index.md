@@ -14,9 +14,9 @@ Outside of my academic pursuits, I have a passion for long-distance swimming and
 
 
 ## Research Interests
-- **Machine Learning:** robustness, optimization, and medical image processing
-- **Time Series:** integer-valued time series, and spatial time series 
-- **Application Fields:** Biology and Genetics, Medicine and Epidemiology, Social Sciences
+- **Time Series** 
+- **Statistical Learning** 
+- **Biostatistics**
 
 
 
