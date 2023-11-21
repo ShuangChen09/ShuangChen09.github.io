@@ -10,7 +10,7 @@ Under the guidance of Professor <a href="http://maths.jsnu.edu.cn/_t1395/17335/l
 
 During my time in college, I actively participated in statistical modeling competitions and Kaggle challenges, which exposed me to a diverse range of statistical models. These experiences not only honed my problem-solving skills but also cultivated my programming abilities. Furthermore, in the summer of 2022, during my internship with the municipal government, I utilized machine learning techniques to address specific issues related to public welfare. Through these endeavors, I discovered the captivating power of statistical methods and developed a profound belief that statistics, as a discipline rooted in data, holds the potential to create substantial value for society.
 
-Outside of my academic pursuits, I have a passion for long-distance swimming and running. Occasionally, I also enjoy playing the flute. Furthermore, my interest in solving Rubik's Cubes began when I was eight years old, and I have even participated in world-class Rubik's Cube competitions. During my college years, I held the position of vice president in the university's Rubik's Cube club.
+Outside of my academic pursuits, I have a passion for long-distance swimming and running. Occasionally, I also enjoy playing the flute. Furthermore, my interest in solving Rubik's Cubes began when I was nine years old, and I have even participated in world-class Rubik's Cube competitions. During my college years, I held the position of vice president in the university's Rubik's Cube club.
 
 
 ## Research Interests
