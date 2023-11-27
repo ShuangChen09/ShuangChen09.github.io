@@ -72,6 +72,26 @@
 </div>
 </li>
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/wordle.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">MCM</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Be A High Level Player in Game Wordle</div>
+    <div class="author"><strong>Shuang Chen</strong>, Jiasen Mao, and Zhen Liu </div>
+    <div class="periodical"><em> School of Mathematics and Statistics</em></div>
+    <div class="links">
+      <a href="https://drive.google.com/file/d/1ZZzJvMh_Wlgv0eQ8QX2iTMkm5mL12MWd/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
 
 <li>
 <div class="pub-row">
