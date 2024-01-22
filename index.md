@@ -12,6 +12,10 @@ I have participated in numerous mathematical modeling and Kaggle competitions, a
 
 Outside of my academic pursuits, I have a passion for long-distance swimming and running. Occasionally, I also enjoy playing the flute. Furthermore, my interest in solving Rubik's Cubes began when I was nine years old, and I have even participated in world-class Rubik's Cube competitions.
 
+## Interests
+- **Time series**
+- **Medical image processing**
+- **Biostatistics**
 
 ## Awards
 - **[May. 2023]** *Meritorious Winner* in <a href="https://www.comap.com/contests/mcm-icm" target="_blank"> The Mathematical Contest in Modeling (MCM) </a>
