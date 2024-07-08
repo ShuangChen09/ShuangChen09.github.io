@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-
+陈爽
 I am currently a senior student majoring in Statistics at the <a href="http://maths.jsnu.edu.cn/" target="_blank"> School of Mathematics and Statistics</a>, Jiangsu Normal University, and I am also part of the <a href="http://jwsy.jsnu.edu.cn/" target="_blank"> CW CHU College (Talent Development Base)</a>, where I have had the privilege of being mentored by Professor <a href="http://jwsy.jsnu.edu.cn/44/65/c17641a345189/page.htm" target="_blank"> Xiaoxiang Yu</a>. During my undergraduate studies, I earned a weighted average score of 91.3 in mathematics and statistics courses. My overall weighted GPA is 90.4(<a href="https://drive.google.com/file/d/1eVKAdJAibA0F70sTSxqmaQdorSc25DAW/view?usp=sharing"> My transcript </a>), ranking me third out of 51 students in the statistics department.
 
 Under the guidance of Professor Lianyong Qian, I have had the privilege of conducting research on integer-valued time series. I have a strong interest in various statistical models and their applications. In the past, I have also explored areas such as Bayesian inference, deep learning, variable selection, medical image recognition, and structural equation modeling.
