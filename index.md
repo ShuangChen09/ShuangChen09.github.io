@@ -1,7 +1,7 @@
 ---
 layout: homepage
 ---
-## Welcome to Shuang Chen's homepage
+# Welcome to Shuang Chen's homepage
 
 
 ## About Me
